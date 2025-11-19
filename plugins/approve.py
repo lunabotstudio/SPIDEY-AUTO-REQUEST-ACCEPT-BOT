@@ -89,8 +89,8 @@ async def approve_user(chat, user, captcha_bypassed=False):
     await app.approve_chat_join_request(chat.id, user.id)
 
     keyboard = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🔔 Sᴜʙsᴄʀɪʙᴇ Tᴏ Oᴜʀ Cʜᴀɴɴᴇʟ", url="https://youtube.com/@spidey_official_777")],
-        [InlineKeyboardButton("💬 Cᴏɴᴛᴀᴄᴛ Sᴜᴘᴘᴏʀᴛ", url="https://t.me/hacker_x_official_777")]
+        [InlineKeyboardButton("🔔 Sᴜʙsᴄʀɪʙᴇ Tᴏ Oᴜʀ Cʜᴀɴɴᴇʟ", url="https://t.me/Allapkmodsarehere")],
+        [InlineKeyboardButton("💬 Cᴏɴᴛᴀᴄᴛ Sᴜᴘᴘᴏʀᴛ", url="https://t.me/RishuBotz_Bot")]
     ])
 
     effect_id = 5159385139981059251 if user.is_premium else random.choice([
