@@ -4,7 +4,7 @@
 
 class script(object):
 
-    START_MSG = """<b>🦊 Hᴇʟʟᴏ {},!\n\nI'ᴍ ᴀɴ ᴀᴜᴛᴏ-ᴀᴘᴘʀᴏᴠᴇ [ᴀᴅᴍɪɴ](https://t.me/@RishuBotz_Bot) [Jᴏɪɴ Rᴇǫᴜᴇsᴛs](https://t.me/telegram/153) ʙᴏᴛ.\nI ᴄᴀɴ ᴀᴘᴘʀᴏᴠᴇ ᴜsᴇʀs ɪɴ Gʀᴏᴜᴘs/Cʜᴀᴛs. Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ᴀɴᴅ [ᴘʀᴏᴍᴏᴛᴇ ᴍᴇ ᴛᴏ ᴀᴅᴍɪɴ]()\n\n<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ :  <a href='https://telegram.me/spideyofficialupdatez'>ꜱᴘɪᴅᴇʏᴏғғɪᴄɪᴀʟ𝟽𝟽𝟽</a></blockquote></b>"""
+    START_MSG = """<b>🦊 Hᴇʟʟᴏ {},!\n\nI'ᴍ ᴀɴ ᴀᴜᴛᴏ-ᴀᴘᴘʀᴏᴠᴇ [ᴀᴅᴍɪɴ](https://t.me/RishuBotz_Bot) [Jᴏɪɴ Rᴇǫᴜᴇsᴛs](https://t.me/telegram/153) ʙᴏᴛ.\nI ᴄᴀɴ ᴀᴘᴘʀᴏᴠᴇ ᴜsᴇʀs ɪɴ Gʀᴏᴜᴘs/Cʜᴀᴛs. Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ᴀɴᴅ [ᴘʀᴏᴍᴏᴛᴇ ᴍᴇ ᴛᴏ ᴀᴅᴍɪɴ]()\n\n<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ :  <a href='https://t.me/ProBotCreator'>𝙿𝚁𝙾 𝙱𝙾𝚃 𝙲𝚁𝙴𝙰𝚃𝙾𝚁</a></blockquote></b>"""
     
     DISCLAIMER_TXT = """
 <b>      ᴀᴜᴛᴏ ʀᴇǫᴜᴇsᴛ ᴀᴄᴄᴇᴘᴛ ʙᴏᴛ
@@ -12,7 +12,7 @@ class script(object):
    
   ᴛʜɪs ʙᴏᴛ ɪs ᴀ ᴘᴜʙʟɪᴄʟʏ ᴀᴠᴀɪʟᴀʙʟᴇ ᴛᴏᴏʟ ᴅᴇsɪɢɴᴇᴅ ᴛᴏ ᴀssɪsᴛ ᴄʜᴀɴɴᴇʟ ᴏᴡɴᴇʀs ʙʏ ᴀᴜᴛᴏᴍᴀᴛɪɴɢ ᴛʜᴇ ᴘʀᴏᴄᴇss ᴏғ ᴀᴄᴄᴇᴘᴛɪɴɢ ʀᴇǫᴜᴇsᴛs ᴏɴ ᴛʜᴇɪʀ ᴄʜᴀɴɴᴇʟs. Iᴛ ɪs ɪɴᴛᴇɴᴅᴇᴅ ᴛᴏ ɪɴᴄʀᴇᴀsᴇ ᴇғғɪᴄɪᴇɴᴄʏ ᴀɴᴅ ᴇɴʜᴀɴᴄᴇ ᴛʜᴇ ʀᴇǫᴜᴇsᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴇxᴘᴇʀɪᴇɴᴄᴇ. ᴀʟʟ ʀɪɢʜᴛs ᴛᴏ ᴛʜᴇ ᴏʀɪɢɪɴᴀʟ sᴏғᴛᴡᴀʀᴇ ᴀɴᴅ ʀᴇʟᴀᴛᴇᴅ ᴄᴏɴᴛᴇɴᴛ ᴀʀᴇ ᴛʜᴇ ᴘʀᴏᴘᴇʀᴛʏ ᴏғ ᴛʜᴇɪʀ ʀᴇsᴘᴇᴄᴛɪᴠᴇ ᴄᴏᴘʏʀɪɢʜᴛ ʜᴏʟᴅᴇʀs. Tʜɪs ʙᴏᴛ ɪs ɴᴏᴛ ᴀғғɪʟɪᴀᴛᴇᴅ ᴡɪᴛʜ, ᴇɴᴅᴏʀsᴇᴅ ʙʏ, ᴏʀ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ʙʏ ᴛᴇʟᴇɢʀᴀᴍ , ᴜɴʟᴇss ᴏᴛʜᴇʀᴡɪsᴇ sᴘᴇᴄɪғɪᴇᴅ. Usᴇ ᴏғ ᴛʜɪs ʙᴏᴛ ᴅᴏᴇs ɴᴏᴛ ɢʀᴀɴᴛ ᴏᴡɴᴇʀsʜɪᴘ ʀɪɢʜᴛs ᴛᴏ ᴛʜᴇ sᴏғᴛᴡᴀʀᴇ ᴏʀ ᴀssᴏᴄɪᴀᴛᴇᴅ ɪɴᴛᴇʟʟᴇᴄᴛᴜᴀʟ ᴘʀᴏᴘᴇʀᴛʏ. ʙʏ ᴜsɪɴɢ ᴛʜɪs ʙᴏᴛ, ʏᴏᴜ ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇ ᴀɴᴅ ᴀɢʀᴇᴇ ᴛᴏ ᴄᴏᴍᴘʟʏ ᴡɪᴛʜ ᴀʟʟ ʀᴇʟᴇᴠᴀɴᴛ ᴛᴇʀᴍs ᴏғ sᴇʀᴠɪᴄᴇ ᴀɴᴅ ᴜsᴀɢᴇ ᴘᴏʟɪᴄɪᴇs ᴏғ ᴛʜᴇ ᴘʟᴀᴛғᴏʀᴍs ʏᴏᴜ ɪɴᴛᴇʀᴀᴄᴛ ᴡɪᴛʜ. ғᴏʀ ɪɴǫᴜɪʀɪᴇs ᴏʀ ᴄᴏɴᴄᴇʀɴs, ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴏʀ ʀᴇғᴇʀ ᴛᴏ ᴛʜᴇ ʀᴇʟᴇᴠᴀɴᴛ ᴘʟᴀᴛғᴏʀᴍ's ᴛᴇʀᴍs ᴏғ sᴇʀᴠɪᴄᴇ. 
 
-<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Hacker_x_official_777'>ꜱᴘɪᴅᴇʏᴏғғɪᴄɪᴀʟ𝟽𝟽𝟽</a></b>
+<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/RishuBotz_Bot'>𝚁𝙸𝚂𝙷𝚄 𝙱𝙾𝚃𝚉</a></b>
  """
     
     LOGO =""" 
@@ -33,7 +33,7 @@ class script(object):
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code> ᴠ𝟶.𝟽.𝟹 [ Sᴛᴀʙʟᴇ ]</code>
 
- 🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://telegram.me/Hacker_x_official_777'>ꜱᴘɪᴅᴇʏᴏғғɪᴄɪᴀʟ𝟽𝟽𝟽</a></b>
+ 🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://telegram.me/rishuBotz_Bot'>𝚁𝙸𝚂𝙷𝚄 𝙱𝙾𝚃𝚉</a></b>
 """    
 
     SOURCE_TXT = """
@@ -48,12 +48,12 @@ class script(object):
 
 ᴀɴᴅ ᴜsɪɴɢ ᴀɴᴅ <a href='https://cloud.mongodb.com'>ᴍᴏɴɢᴏ</a> ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
-» Sᴜʙsᴄʀɪʙᴇ ᴛᴏ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ : <a href='https://youtube.com/@spidey_official_777'>Sᴘɪᴅᴇʏ ᴏғғɪᴄɪᴀʟ</a>
-» Sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT.git'>Sᴘɪᴅᴇʏ ᴏғғɪᴄɪᴀʟ ᴀᴜᴛᴏ ʀᴇǫᴜᴇꜱᴛ ᴀᴄᴄᴇᴘᴛ ʙᴏᴛ</a>
+» Sᴜʙsᴄʀɪʙᴇ ᴛᴏ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/Allapkmodsarehere'>𝙼𝙾𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</a>
+» 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href='https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT.git'>𝙾𝚆𝙽𝙴𝚁</a>
 
 ꜱᴘɪᴅᴇʏ  ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ <a href='https://github.com/Spideyofficial777/Spidey-MtLisance/blob/main/LICENSE'>ᴍɪᴛ ʟɪᴄᴇɴsᴇ</a> .
 
-© 𝟸𝟶𝟸𝟻 | <a href=https://t.me/SPIDEYOFFICIAL777>sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ</a> , ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
+© 𝟸𝟶𝟸𝟻 | <a href=https://t.me/Luna_Flix_Chat>sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ</a> , ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
   
   <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Hacker_x_official_777'>ꜱᴘɪᴅᴇʏᴏғғɪᴄɪᴀʟ𝟽𝟽𝟽</a></blockquote></b>"""
     
