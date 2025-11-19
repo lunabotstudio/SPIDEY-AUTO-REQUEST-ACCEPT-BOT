@@ -49,9 +49,9 @@ class script(object):
 ᴀɴᴅ ᴜsɪɴɢ ᴀɴᴅ <a href='https://cloud.mongodb.com'>ᴍᴏɴɢᴏ</a> ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 » Sᴜʙsᴄʀɪʙᴇ ᴛᴏ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/Allapkmodsarehere'>𝙼𝙾𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</a>
-» 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href='https://github.com/Spideyofficial777/SPIDEY-AUTO-REQUEST-ACCEPT-BOT.git'>𝙾𝚆𝙽𝙴𝚁</a>
+» 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href='https://telegram.me/rishuBotz_Bot'>𝙾𝚆𝙽𝙴𝚁</a>
 
-ꜱᴘɪᴅᴇʏ  ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ <a href='https://github.com/Spideyofficial777/Spidey-MtLisance/blob/main/LICENSE'>ᴍɪᴛ ʟɪᴄᴇɴsᴇ</a> .
+ꜱᴘɪᴅᴇʏ  ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ <a href='https://t.me/Luna_Flix'>𝙻𝚄𝙽𝙰 𝙵𝙻𝙸𝚇</a> .
 
 © 𝟸𝟶𝟸𝟻 | <a href=https://t.me/Luna_Flix_Chat>sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ</a> , ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
   
@@ -59,7 +59,7 @@ class script(object):
     
     ALERT_MSG = """ ⚡️ ʟɪᴠᴇ sʏsᴛᴇᴍ sᴛᴀᴛᴜs ⚡️\n\n❂ ʀᴀᴍ ●●●●●●●◌◌◌\n✇ ᴄᴘᴜ ●●●●●●●◌◌◌\n✪ ᴅᴀᴛᴀ ᴛʀᴀꜰɪᴄs ●●●●◌◌◌◌◌◌ 🛰\n\nᴠ𝟷.𝟶 [sᴛᴀʙʟᴇ] """
     
-    ABOUT_TXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://telegram.me/SPIDER_MAN_GAMING_bot'>sᴘɪᴅᴇʏ_ɢᴀᴍɪɴɢ_ᴏғғɪᴄɪᴀʟ_ʙᴏᴛ</a>\n‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://telegram.me/Hacker_x_official_777'>ꜱᴘɪᴅᴇʏᴏғғɪᴄɪᴀʟ𝟽𝟽𝟽</a>\n‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ\n‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ\n‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ𝟷.𝟶 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
+    ABOUT_TXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://telegram.me/LunaAutoReqAccepter_Bot'>Auto Request Accepter Bot</a>\n‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://telegram.me/RishuBotz_Bot'>𝚁𝙸𝚂𝙷𝚄 𝙱𝙾𝚃𝚉</a>\n‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ\n‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ\n‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ𝟷.𝟶 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
     
     CHANNELS = """
 <b>๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ᴛᴏ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴜs.</b>"""
@@ -71,9 +71,9 @@ class script(object):
     OWNER_TEXT = """
 <b>━━━━━━━━━━━━━━━━━━━━━
 🚀 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀɴ ᴇʟɪᴛᴇ ᴅᴇᴠ 🚀  
-👑 ᴏᴡɴᴇʀ:  <a href='https://telegram.me/spideyofficial777'>ꜱᴘɪᴅᴇʏ</a>
-🔗 ᴛᴇʟᴇɢʀᴀᴍ: <a href='https://telegram.me/spideyofficial777'>ꜱᴘɪᴅᴇʏᴏғғɪᴄɪᴀʟ𝟽𝟽𝟽</a>  
-🌍 ɢɪᴛʜᴜʙ: <a href='https://GitHub.com/spideyofficial777'>ꜱᴘɪᴅᴇʏ ᴏғғɪᴄɪᴀʟ</a>
+👑 ᴏᴡɴᴇʀ:  <a href='https://telegram.me/rishuBotz_Bot'>𝚁𝙸𝚂𝙷𝚄 𝙱𝙾𝚃𝚉</a>
+🔗 ᴛᴇʟᴇɢʀᴀᴍ: <a href='https://t.me/Allapkmodsarehere'>𝙼𝙾𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</a>  
+🌍 ɢɪᴛʜᴜʙ: <a href='https://GitHub.com'>GitHub</a>
 ━━━━━━━━━━━━━━━━━━━━━
 🔥 ɪɴɴᴏᴠᴀᴛɪɴɢ ᴛʜᴇ ғᴜᴛᴜʀᴇ, ɴᴇ ᴄᴏᴅᴇ ᴀᴛ ᴀ ᴛɪᴍᴇ! 🔥
 ━━━━━━━━━━━━━━━━━━━━━</b>
