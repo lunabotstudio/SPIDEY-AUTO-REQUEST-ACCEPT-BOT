@@ -51,7 +51,7 @@ class script(object):
 » Sᴜʙsᴄʀɪʙᴇ ᴛᴏ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/Allapkmodsarehere'>𝙼𝙾𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</a>
 » 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href='https://telegram.me/rishuBotz_Bot'>𝙾𝚆𝙽𝙴𝚁</a>
 
-ꜱᴘɪᴅᴇʏ  ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ <a href='https://t.me/Luna_Flix'>𝙻𝚄𝙽𝙰 𝙵𝙻𝙸𝚇</a> .
+𝙻𝚄𝙽𝙰 𝙵𝙻𝙸𝚇 <a href='https://t.me/Luna_Flix'>𝙻𝚄𝙽𝙰 𝙵𝙻𝙸𝚇</a> .
 
 © 𝟸𝟶𝟸𝟻 | <a href=https://t.me/Luna_Flix_Chat>sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ</a> , ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
   
@@ -73,7 +73,7 @@ class script(object):
 🚀 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀɴ ᴇʟɪᴛᴇ ᴅᴇᴠ 🚀  
 👑 ᴏᴡɴᴇʀ:  <a href='https://telegram.me/rishuBotz_Bot'>𝚁𝙸𝚂𝙷𝚄 𝙱𝙾𝚃𝚉</a>
 🔗 ᴛᴇʟᴇɢʀᴀᴍ: <a href='https://t.me/Allapkmodsarehere'>𝙼𝙾𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</a>  
-🌍 ɢɪᴛʜᴜʙ: <a href='https://GitHub.com'>GitHub</a>
+🌍 ɢɪᴛʜᴜʙ: <a href='https://GitHub.com'>GITHUB</a>
 ━━━━━━━━━━━━━━━━━━━━━
 🔥 ɪɴɴᴏᴠᴀᴛɪɴɢ ᴛʜᴇ ғᴜᴛᴜʀᴇ, ɴᴇ ᴄᴏᴅᴇ ᴀᴛ ᴀ ᴛɪᴍᴇ! 🔥
 ━━━━━━━━━━━━━━━━━━━━━</b>
