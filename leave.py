@@ -21,8 +21,8 @@ MEDIA_FILES = [
 CHAT_IDS = [-1002453024937, -1001959922658, -1002470391435, -1002481537934]
 
 # 🔹 Support & Rejoin Links
-SUPPORT_CHAT = "https://t.me/hacker_x_official_777"
-CHANNEL_LINK = "https://t.me/spideyofficial777"
+SUPPORT_CHAT = "https://t.me/Luna_Flix_Chat"
+CHANNEL_LINK = "https://t.me/Allapkmodsarehere"
 
 @app.on_chat_member_updated(filters.group)
 async def user_leave_handler(client: Client, event: ChatMemberUpdated):
