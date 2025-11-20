@@ -54,7 +54,7 @@ async def on_callback_query(_, callback_query: CallbackQuery):
                         "ʀᴇᴍᴏᴠᴇʙɢ", callback_data="close_data"
                     ),
                     InlineKeyboardButton(
-                        "ʟɪᴠᴇ ɪᴘʟ 🏏", url="https://t.me/spideyofficialupdatez"
+                        "𝙻𝚄𝙽𝙰 𝙵𝙻𝙸𝚇", url="https://t.me/Luna_Flix"
                     ),
                 ],
                 [
@@ -65,12 +65,12 @@ async def on_callback_query(_, callback_query: CallbackQuery):
                     InlineKeyboardButton("Oᴡɴᴇʀ", callback_data="spidey"),
                 ],
                 [
-                    InlineKeyboardButton("Mᴏᴠɪᴇs", url="https://example.com/movies"),
+                    InlineKeyboardButton("Mᴏᴠɪᴇs", url="https://t.me/moviegroup24h"),
                     InlineKeyboardButton(
-                        "Uᴘᴅᴀᴛᴇs", url="https://t.me/live_update_channel"
+                        "Uᴘᴅᴀᴛᴇs", url="https://t.me/ProBotCreator"
                     ),
                     InlineKeyboardButton(
-                        "Sᴜᴘᴘᴏʀᴛ", url="https://t.me/SPIDEYOFFICIAL777"
+                        "Sᴜᴘᴘᴏʀᴛ", url="https://t.me/Luna_Flix_Chat"
                     ),
                 ],
                 [InlineKeyboardButton("⋞ Back", callback_data="back")],
@@ -92,11 +92,11 @@ async def on_callback_query(_, callback_query: CallbackQuery):
                 [InlineKeyboardButton("‼️ ᴅɪꜱᴄʟᴀɪᴍᴇʀ ‼️", callback_data="disclaimer")],
                 [
                     InlineKeyboardButton(
-                        "• ᴠɪsɪᴛ ᴏᴜʀ ᴄᴏᴍᴍᴜɴɪᴛʏ •", url="t.me/SPIDEYOFFICIAL_777"
+                        "• ᴠɪsɪᴛ ᴏᴜʀ ᴄᴏᴍᴍᴜɴɪᴛʏ •", url="t.me/Allapkmodsarehere"
                     )
                 ],
                 [
-                    InlineKeyboardButton("• ᴏᴡɴᴇʀ •", user_id=int(7965267063)),
+                    InlineKeyboardButton("• ᴏᴡɴᴇʀ •", user_id=int(6286894502)),
                     InlineKeyboardButton("• sᴏᴜʀᴄᴇ •", callback_data="source"),
                 ],
                 [InlineKeyboardButton("🛰️ ʀᴇɴᴅᴇʀɪɴɢ ꜱᴛᴀᴛᴜꜱ ☁️", callback_data="rendr")],
@@ -121,7 +121,7 @@ async def on_callback_query(_, callback_query: CallbackQuery):
             [
                 [
                     InlineKeyboardButton(
-                        "📲 ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴏᴡɴᴇʀ", url="https://t.me/hacker_x_official_777"
+                        "📲 ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴏᴡɴᴇʀ", url="https://t.me/RishuBotz_Bot"
                     )
                 ],
                 [InlineKeyboardButton("⪻ ʙᴀᴄᴋ", callback_data="about")],
@@ -149,11 +149,11 @@ async def on_callback_query(_, callback_query: CallbackQuery):
                 [
                     InlineKeyboardButton(
                     "➕ Aᴅᴅ Mᴇ ᴛᴏ Yᴏᴜʀ Cʜᴀɴɴᴇʟ ➕",
-                    url="https://t.me/SPIDER_MAN_GAMING_bot?startchannel=Bots4Sale&admin=invite_users+manage_chat",
+                    url="https://t.me/LunaAutoReqAccepter_Bot?startchannel=Bots4Sale&admin=invite_users+manage_chat",
                 )
                 ],
                 [
-                    InlineKeyboardButton("🚀 Channel", url="https://t.me/SPIDEYOFFICIAL_777"),
+                    InlineKeyboardButton("🚀 Channel", url="https://t.me/Allapkmodsarehere"),
                     InlineKeyboardButton("💬 Sᴜᴘᴘᴏʀᴛ", callback_data="group_info"),
             ],
             [
@@ -163,7 +163,7 @@ async def on_callback_query(_, callback_query: CallbackQuery):
                 [
                     InlineKeyboardButton(
                     "➕ Aᴅᴅ Mᴇ ᴛᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕",
-                    url="https://t.me/SPIDER_MAN_GAMING_bot?startgroup=true",
+                    url="https://t.me/LunaAutoReqAccepter_Bot?startgroup=true",
                 )
             ],
         ]
@@ -183,24 +183,24 @@ async def on_callback_query(_, callback_query: CallbackQuery):
         buttons = [
             [
                 InlineKeyboardButton(
-                    "× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×", url="https://t.me/SPIDEYOFFICIAL777"
+                    "× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×", url="https://t.me/Luna_Flix/13"
                 )
             ],
             [
-                InlineKeyboardButton("• ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ •", url="https://t.me/+KTXnXf_YPxJlOGRl"),
+                InlineKeyboardButton("• ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ •", url="https://t.me/moviegroup24h"),
                 InlineKeyboardButton(
-                    "• ᴜᴘᴅᴀᴛᴇs •", url="https://t.me/SpideyOfficialUpdatez"
+                    "• ᴜᴘᴅᴀᴛᴇs •", url="https://t.me/ProBotCreator"
                 ),
             ],
             [
-                InlineKeyboardButton("• ʜᴀᴄᴋ •", url="https://t.me/+cMlrPqMjUwtmNTI1"),
+                InlineKeyboardButton("• ʜᴀᴄᴋ •", url="https://t.me/Allapkmodsarehere"),
                 InlineKeyboardButton(
-                    "• 𝟷𝟾+ 🚫 •", url="https://t.me/+WCbiy07x2uVjNzVl"
+                    "• 𝟷𝟾+ 🚫 •", url="https://t.me/+bebLF2Y3VRk4Mzc1"
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    "• ᴄɪɴᴇғʟɪx •", url="https://t.me/+QVmLP_hlHNw3M2I1"
+                    "• ᴄɪɴᴇғʟɪx •", url="https://t.me/moviegroup24h"
                 )
             ],
             [
