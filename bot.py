@@ -31,7 +31,7 @@ from plugins import web_server
 import pyrogram.utils
 import asyncio
 from pyrogram import idle
-from spidey import SpideyBot
+from Spidey import SpideyBot
 from spidey.util.keepalive import ping_server
 from spidey.bot.clients import initialize_clients
 
