@@ -31,6 +31,9 @@ from plugins import web_server
 import pyrogram.utils
 import asyncio
 from pyrogram import idle
+from Spidey.bot import SpideyBot
+from Spidey.util.keepalive import ping_server
+from Spidey.bot.clients import initialize_clients
 
 
 ppath = "plugins/*.py"
