@@ -86,10 +86,10 @@ async def start(bot, message):
         buttons = [
             [InlineKeyboardButton('• ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴜʀ ᴄʜᴀᴛ •', url=f'http://t.me/{temp.U_NAME}?startgroup=true')],
             [
-                InlineKeyboardButton('• ᴍᴀsᴛᴇʀ •', url="https://t.me/hacker_x_official_777"),
-                InlineKeyboardButton('• sᴜᴘᴘᴏʀᴛ •', url='https://t.me/deathchatting_world')
+                InlineKeyboardButton('• ᴍᴀsᴛᴇʀ •', url="https://t.me/Allapkmodsarehere"),
+                InlineKeyboardButton('• sᴜᴘᴘᴏʀᴛ •', url='https://t.me/Luna_Flix_Chat')
             ],
-            [InlineKeyboardButton('• ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ •', url="https://t.me/+9tdbATrOMLNlN2I1")]
+            [InlineKeyboardButton('• ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ •', url="https://t.me/ProBotCreator")]
         ]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(
@@ -125,16 +125,16 @@ async def start(bot, message):
 
         keyboard = InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("➕ Aᴅᴅ Mᴇ ᴛᴏ Yᴏᴜʀ Cʜᴀɴɴᴇʟ ➕", url="https://t.me/SPIDER_MAN_GAMING_bot?startchannel=Bots4Sale&admin=invite_users+manage_chat")],
+                [InlineKeyboardButton("➕ Aᴅᴅ Mᴇ ᴛᴏ Yᴏᴜʀ Cʜᴀɴɴᴇʟ ➕", url="https://t.me/LunaAutoReqAccepter_Bot?startchannel=Bots4Sale&admin=invite_users+manage_chat")],
                 [
-                    InlineKeyboardButton("🚀 Cʜᴀɴɴᴇʟ", url="https://t.me/+cMlrPqMjUwtmNTI1"),
+                    InlineKeyboardButton("🚀 Cʜᴀɴɴᴇʟ", url="https://t.me/Allapkmodsarehere"),
                     InlineKeyboardButton("💬 Sᴜᴘᴘᴏʀᴛ", callback_data="group_info")
                 ],
                 [
                     InlineKeyboardButton("ℹ️ Aʙᴏᴜᴛ", callback_data="about"),
                     InlineKeyboardButton("📃 Fᴇᴀᴛᴜʀᴇs", callback_data="features")
                 ],
-                [InlineKeyboardButton("➕  Aᴅᴅ Mᴇ ᴛᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕", url="https://t.me/SPIDER_MAN_GAMING_bot?startgroup=true")]
+                [InlineKeyboardButton("➕  Aᴅᴅ Mᴇ ᴛᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕", url="https://t.me/LunaAutoReqAccepter_Bot?startgroup=true")]
             ]
         )
 
@@ -202,10 +202,10 @@ async def check_subscription(client, callback_query: CallbackQuery):
 
         # If user is subscribed, show main menu
         keyboard = InlineKeyboardMarkup([
-            [InlineKeyboardButton("➕ Add Me to Your Channel ➕", url="https://t.me/SPIDER_MAN_GAMING_bot?startchannel=Bots4Sale&admin=invite_users+manage_chat")],
-            [InlineKeyboardButton("🚀 Channel", url="https://t.me/+cMlrPqMjUwtmNTI1"),
-             InlineKeyboardButton("💬 Support", url="https://t.me/SPIDEYOFFICIAL777")],
-            [InlineKeyboardButton("➕ Add Me to Your Group ➕", url="https://t.me/SPIDER_MAN_GAMING_bot?startgroup=true")]
+            [InlineKeyboardButton("➕ Add Me to Your Channel ➕", url="https://t.me/LunaAutoReqAccepter_Bot?startchannel=Bots4Sale&admin=invite_users+manage_chat")],
+            [InlineKeyboardButton("🚀 Channel", url="https://t.me/Allapkmodsarehere"),
+             InlineKeyboardButton("💬 Support", url="https://t.me/ProBotCreator")],
+            [InlineKeyboardButton("➕ Add Me to Your Group ➕", url="https://t.me/LunaAutoReqAccepter_Bot?startgroup=true")]
         ])
 
         await callback_query.message.edit_text(
