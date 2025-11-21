@@ -27,7 +27,7 @@ async def save_group(bot, message):
 
             if message.chat.id in temp.BANNED_CHATS:
                 buttons = [[
-                    InlineKeyboardButton('• ᴄᴏɴᴛᴀᴄᴛ ꜱᴜᴘᴘᴏʀᴛ •', url='https://t.me/hacker_x_official_777')
+                    InlineKeyboardButton('• ᴄᴏɴᴛᴀᴄᴛ ꜱᴜᴘᴘᴏʀᴛ •', url='https://t.me/RishuBotz_Bot')
                 ]]
                 reply_markup = InlineKeyboardMarkup(buttons)
                 k = await message.reply(
@@ -42,8 +42,8 @@ async def save_group(bot, message):
                 return
 
             buttons = [[
-                InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://telegram.me/spideyofficial777'),
-                InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ', url='https://telegram.me/spideyofficial_777')
+                InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/Luna_Flix_Chat'),
+                InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ', url='https://t.me/ProBotCreator')
             ]]
             reply_markup = InlineKeyboardMarkup(buttons)
             await message.reply_text(
@@ -64,7 +64,7 @@ async def save_group(bot, message):
                 photo=MELCOW_VID,
                 caption=script.MELCOW_ENG.format(u.mention, message.chat.title),
                 reply_markup=InlineKeyboardMarkup([[
-                    InlineKeyboardButton('• ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇꜱ •', url='https://t.me/+QVmLP_hlHNw3M2I1/')
+                    InlineKeyboardButton('• ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇꜱ •', url='https://t.me/ProBotCreator')
                 ]]),
                 parse_mode=enums.ParseMode.HTML
             )
@@ -80,7 +80,7 @@ async def user_left(bot, message):
     settings = await get_settings(message.chat.id)
     if settings["welcome"]:
         buttons = [[
-            InlineKeyboardButton("• ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇꜱ •", url="https://t.me/spideyofficial_777")
+            InlineKeyboardButton("• ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇꜱ •", url="https://t.me/ProBotCreator")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -103,7 +103,7 @@ async def leave_a_chat(bot, message):
         chat = chat
     try:
         buttons = [[
-                  InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://telegram.me/spideyofficialupdatez')
+                  InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://telegram.me/RishuBotz_Bot')
                   ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
