@@ -55,7 +55,7 @@ class script(object):
 
 © 𝟸𝟶𝟸𝟻 | <a href=https://t.me/Luna_Flix_Chat>sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ</a> , ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
   
-  <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Hacker_x_official_777'>ꜱᴘɪᴅᴇʏᴏғғɪᴄɪᴀʟ𝟽𝟽𝟽</a></blockquote></b>"""
+  <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/RishuBotz_Bot'>𝚁𝙸𝚂𝙷𝚄 𝙱𝙾𝚃𝚉</a></blockquote></b>"""
     
     ALERT_MSG = """ ⚡️ ʟɪᴠᴇ sʏsᴛᴇᴍ sᴛᴀᴛᴜs ⚡️\n\n❂ ʀᴀᴍ ●●●●●●●◌◌◌\n✇ ᴄᴘᴜ ●●●●●●●◌◌◌\n✪ ᴅᴀᴛᴀ ᴛʀᴀꜰɪᴄs ●●●●◌◌◌◌◌◌ 🛰\n\nᴠ𝟷.𝟶 [sᴛᴀʙʟᴇ] """
     
