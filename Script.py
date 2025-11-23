@@ -91,7 +91,7 @@ class script(object):
 <b>🕐 ᴊᴏɪɴᴇᴅ ᴀᴛ :</b> <code>{time}</code>
 """
 
-    GSTART_TXT = """<b>ʜᴇʏ {},\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ʀᴇǫᴜᴇꜱᴛ ᴀᴄᴄᴇᴘᴛ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.\n\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/spideyofficialupdatez'>ꜱᴘɪᴅᴇʏ</a></b>"""
+    GSTART_TXT = """<b>ʜᴇʏ {},\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ʀᴇǫᴜᴇꜱᴛ ᴀᴄᴄᴇᴘᴛ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.\n\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/RishuBotz_Bot'>𝚁𝙸𝚂𝙷𝚄 𝙱𝙾𝚃𝚉</a></b>"""
 
     LOG_TEXT_G = """#NewGroup
     
