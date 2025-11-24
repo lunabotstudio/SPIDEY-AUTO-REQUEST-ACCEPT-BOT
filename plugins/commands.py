@@ -167,7 +167,7 @@ async def start(bot, message):
             photo=welcome_image,
             caption=f"<b>⚠️ Access Denied! ⚠️\n\n🔥 Hello {message.from_user.mention}!\n\n"
                     "You need to join all required channels before proceeding!\n\n"
-                    "👉 [✨ Join Now ✨](https://t.me/SPIDEYOFFICIAL777)</b>",
+                    "👉 [✨ Join Now ✨](https://t.me/Allapkmodsarehere)</b>",
             reply_markup=keyboard
         )
 
